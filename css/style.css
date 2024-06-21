@@ -1,14 +1,94 @@
 body{
     font-family: "Noto Sans Thai Looped";
+    background-image: url("https://images.pexels.com/photos/1831234/pexels-photo-1831234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+}
+.imageer{
+
+    text-align: left;
+    margin: 0 0 0 18%;
+}
+.imageer2{
+    text-align: left;
+    border: 2px solid #000000;
+    margin: 0 7% 0 7%;
 }
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #000000;
   }
+.centerpic{
+  text-align: center;
+  height: 300px;
+  margin: 0 0 0 0;
+  }
+.rightpic {
+    text-align: right;
+    max-width: 100%;
+    height: 300px;
+    margin: 0 100px 0 100px;
+    }
+.leftpic {
+    text-align: left;
+    max-width: 100%;
+    height: 300px;
+    margin: 0 100px 0 270px;
+    }
  .goto{
     color: aquamarine;
         border: 2px salmon;
   }
+  p{
+    font-size: medium;
+    padding: 10px;
+    border:1px solid black;
+    padding:1px;
+    background-color:#F3E3D9;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    
+  }
+  .Topic{
+    text-align: center;
+    text-decoration: underline rgb(9, 9, 99);
+  }
+  nav a {
+    text-decoration: none;
+    color: #333;
+    margin: 0 10px;
+    padding: 5px 10px;
+    transition: background-color 0.3s ease;
+    border: 2px solid salmon;
+    background-color:#F3E3D9;
+  }
+  .textleft{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: left;
+    margin: 0 100px 0 370px;
+  }
+  .textcenter{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 100px 0 170px;
+  }
+  .textright{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: right;
+    margin: 0 100px 0 220px;
+  }
+.facebook{
+  margin: 0 255px 0 320px;
+}
+.line{
+  margin: 0 100px 0 280px;
+}
   
